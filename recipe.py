@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 # from flask_cors import CORS
 
-app = Flask(__name__, ststic_folder="static")
+app = Flask(__name__)
 
 # Securely fetch the API key using the dotenv library
 load_dotenv()
