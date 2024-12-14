@@ -1,0 +1,25 @@
+{
+  "short_name": "RecipeApp",
+  "name": "Recipe Creator with ChatGPT API",
+  "start_url": "templates/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",  
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "./icons/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "./icons/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./icons/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
